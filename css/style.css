@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+        
+        .UPPER{
+            color: brown;
+            font-size: 40px;
+            position: fixed;
+            top: 87%;
+            left: 45%;
+            width: 100%;
+        }
+        .menu{
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            width: 100%;
+        }
+        .main{
+            
+            margin: 160px;
+            top: 20%;
+        }
+        body{
+            font-family: cursive;
+            text-align: center;
+            font-family: 'Russo One', sans-serif;
+        }
+        .one{
+            font-family: cursive;
+            font-size: 35px;
+            text-align: center;
+            width: auto;
+            color: blueviolet;
+        }
+        .endprg{
+            font-family:cursive;
+            color:indigo;
+            font-size: 50px;
+        }
+        h2{
+            text-decoration:underline;
+        }
+        h3{
+            color:midnightblue;
+            font-family: cursive;
+            font-size: 50px;
+        }
+        p{
+            font-family:monospace;
+            font-size: 35px;
+            padding-left: 10%;
+            padding-right: 10%;
+            text-align: center;
+            
+        }
+        
+        
+        
+        .photo{
+            font-family: cursive;
+            font-size: 35px;
+            
+            color:rgb(197, 57, 2) ;
+            background-color:rgb(255, 0, 0);
+            
+        }
+        .rules{
+            color: aliceblue;
+            font-family: cursive;
+            font-size: 35px;
+
+            color:rgb(2, 109, 197);
+            background-color: #a79cf4;
+            
+        }
+        .links{
+            
+            font-family: cursive;
+            font-size: 35px;
+            color:rgb(1, 185, 50);
+            background-color:rgb(71, 255, 99);
+            
+            
+        }
+        b{
+            color:blue;
+        }
+        strong{
+            color:blue;
+        }
+        i{
+            color: brown;
+            background-color: rgb(230, 207, 214);
+        }
+        em{
+            color: brown;
+            background-color: rgb(230, 207, 214);
+        }
+        body{
+            background-color: rgb(172, 255, 255);
+        }
+        
+        
+        .btn-3 {
+            font-size: 35px;
+            background-color: #8fce00;
+            color: #000;
+            transition: opacity 1s;
+        }
+        .btn-3:hover{
+            background-color: #b0dc4c;
+            opacity: 1;
+        }
+        
+        
+        .btn-3:active {
+            background-color: #72a400;
+        }
+
+
+        .btn-2 {
+            font-size: 35px;
+            background-color: #2986cc;
+            color: #fff;
+            transition: background-color 1.5s;
+        }
+        
+        .btn-2:hover {
+            background-color: #69aadb;
+            transition: background-color 0.5s;
+        }
+        
+        .btn-2:active {
+            background-color: #206ba3;
+        }
+        .btn-1 {
+            font-size: 35px;
+            background-color: #e63838;
+            color: #000;
+        }
+        
+        .btn-1:hover {
+            background-color: #ea746e;
+        }
+        
+        .btn-1:active {
+            background-color: #ff2b2bce;
+        }
+       
+       
+        .btn-4 {
+            font-size: 35px;
+            background-color: #e02f6a;
+            color: #000;
+        }
+        
+        .btn-4:hover {
+            background-color: #ec72c7;
+        }
+        
+        .btn-4:active {
+            background-color: #fe0fbace;
+        }
+        
+        
+        
+        .btn-5 {
+            
+            
+            
+            font-size: 35px;
+            background-color: #e0e714;
+            color: #000;
+        }
+        
+        .btn-5:hover {
+            background-color: #c5cf51;
+        }
+        
+        .btn-5:active {
+            background-color: #a8f000ce;
+        }
+        
+        
+        
